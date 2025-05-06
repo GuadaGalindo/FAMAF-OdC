@@ -85,6 +85,7 @@ docker exec -it rpi-qemu make runGPIOM
 ```bash
 docker kill rpi-qemu
 ```
+
 ----------------------------------
 ### Otros comandos utiles
 ```bash
@@ -93,3 +94,6 @@ docker run -it --rm -v $(pwd):/local --privileged -e "DISPLAY=${DISPLAY:-:0.0}" 
 # Correr un shell en el container
 docker exec -it rpi-qemu /bin/bash
 ```
+
+## Imagen estática
+![Capibara elegante](capibara.JPG)
