@@ -6,10 +6,8 @@ Laboratorio resuelto (PARTE 1) de la materia **"Organización del Computador"** 
 
 - Assembly
 
-### Autora
+### Autores
 
-**Guadalupe Galindo**  
-Estudiante de Ciencias de la Computación FAMAF - UNC
-
-- [LinkedIn](https://linkedin.com/in/guadagalindo)
-- [GitHub](https://github.com/GuadaGalindo)
+- [Guadalupe Galindo](https://github.com/GuadaGalindo)
+- [Felipe Jimenez](https://github.com/felijimeneez)
+- [Cristian Nieto](https://github.com/d8nq)
